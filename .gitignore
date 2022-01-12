@@ -1,0 +1,10 @@
+# IDEs
+.idea/
+*.*~
+*.lock
+
+# Hugo
+/resources/
+public/
+jsconfig.json
+node_modules/
