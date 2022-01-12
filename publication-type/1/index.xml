@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Perouz Taslakian</title>
+    <link>https://perouz.github.io/publication-type/1/</link>
+      <atom:link href="https://perouz.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://perouz.github.io/media/icon_hufa901ab26a6d3b594018e83fe640980c_489627_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://perouz.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Typing assumptions improve identification in causal discovery</title>
+      <link>https://perouz.github.io/publication/brouillard-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/brouillard-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Hypergraphs: Prediction Beyond Binary Relations</title>
+      <link>https://perouz.github.io/publication/ijcai-2020-303/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/ijcai-2020-303/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-aware visual compatibility prediction</title>
+      <link>https://perouz.github.io/publication/cucurull-2019-context/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/cucurull-2019-context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient multi-robot coverage of a known environment</title>
+      <link>https://perouz.github.io/publication/karapetyan-2017-efficient/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/karapetyan-2017-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Yao Graphs</title>
+      <link>https://perouz.github.io/publication/barba-14-cccg/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/barba-14-cccg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competitive Online Routing on Delaunay Triangulations</title>
+      <link>https://perouz.github.io/publication/bose-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/bose-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sum of Squared Edges for MST of a Point Set in a Unit Square</title>
+      <link>https://perouz.github.io/publication/aichholzer-jcdcg-13/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/aichholzer-jcdcg-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fitting voronoi diagrams to planar tesselations</title>
+      <link>https://perouz.github.io/publication/aloupis-2013-fitting/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/aloupis-2013-fitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cannibal Animal Games: a new variant of Tic-Tac-Toe</title>
+      <link>https://perouz.github.io/publication/cardinal-11/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/cardinal-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deflating Polygons to the Limit</title>
+      <link>https://perouz.github.io/publication/hubard-cccg-10/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/hubard-cccg-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching Points with Things</title>
+      <link>https://perouz.github.io/publication/aloupis-latin-10/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/aloupis-latin-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxed Gabriel Graphs</title>
+      <link>https://perouz.github.io/publication/bose-cccg-09/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/bose-cccg-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Points on a Circle from Labeled Distances</title>
+      <link>https://perouz.github.io/publication/bremner-eurocg-09/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/bremner-eurocg-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of the shadow sequence of inscribed polygons</title>
+      <link>https://perouz.github.io/publication/gomez-fwcg-08/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/gomez-fwcg-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Pumping Lemma for Homometric Rhythms</title>
+      <link>https://perouz.github.io/publication/orourke-cccg-08/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/orourke-cccg-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evenness preserving operations on musical rhythms</title>
+      <link>https://perouz.github.io/publication/gomez-c-3-s-2-e-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/gomez-c-3-s-2-e-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Rolling Cube Puzzles</title>
+      <link>https://perouz.github.io/publication/buchin-cccg-07/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/buchin-cccg-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertex Pops and Popturns</title>
+      <link>https://perouz.github.io/publication/aloupis-cccg-07/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/aloupis-cccg-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deflating The Pentagon</title>
+      <link>https://perouz.github.io/publication/demaine-kyoto-07/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/demaine-kyoto-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deflating The Pentagon</title>
+      <link>https://perouz.github.io/publication/demain-eurocg-07/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/demain-eurocg-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curves in the Sand: Algorithmic Drawing</title>
+      <link>https://perouz.github.io/publication/damian-cccg-06/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/damian-cccg-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Distance Geometry of Deep Rhythms and Scales</title>
+      <link>https://perouz.github.io/publication/demaine-cccg-05/</link>
+      <pubDate>Mon, 01 Aug 2005 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/demaine-cccg-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamiltonian Cycles in Sparse Vertex-Adjacency Duals</title>
+      <link>https://perouz.github.io/publication/taslakian-fwcg-04/</link>
+      <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/taslakian-fwcg-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orderly Broadcasting in a 2D Torus</title>
+      <link>https://perouz.github.io/publication/harutyunyan-ieee-04/</link>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/harutyunyan-ieee-04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
