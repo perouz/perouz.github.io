@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Perouz Taslakian</title>
+    <link>https://perouz.github.io/publication-type/7/</link>
+      <atom:link href="https://perouz.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://perouz.github.io/media/icon_hufa901ab26a6d3b594018e83fe640980c_489627_512x512_fill_lanczos_center_3.png</url>
+      <title>7</title>
+      <link>https://perouz.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Musical Rhythms in the Euclidean Plane</title>
+      <link>https://perouz.github.io/publication/taslakian-phd-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/taslakian-phd-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orderly Broadcasting in Multidimensional Tori</title>
+      <link>https://perouz.github.io/publication/taslakian-masters-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/taslakian-masters-04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
