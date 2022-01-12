@@ -4,12 +4,6 @@
   
   
   <url>
-    <loc>https://perouz.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://perouz.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://perouz.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
-  <url>
     <loc></loc><lastmod>2022-01-11T14:16:24-05:00</lastmod></url>
   <url>
     <loc>https://perouz.github.io/publication-type/1/</loc><lastmod>2022-01-11T14:16:22-05:00</lastmod></url>
@@ -19,6 +13,8 @@
     <loc></loc><lastmod>2022-01-11T14:13:42-05:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2022-01-11T14:16:24-05:00</lastmod></url>
+  <url>
+    <loc>https://perouz.github.io/</loc><lastmod>2022-01-11T14:16:24-05:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2022-01-11T14:13:42-05:00</lastmod></url>
   <url>
@@ -40,31 +36,7 @@
   <url>
     <loc>https://perouz.github.io/publication/unpublished/</loc><lastmod>2022-01-11T14:15:59-05:00</lastmod></url>
   <url>
-    <loc>https://perouz.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://perouz.github.io/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://perouz.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://perouz.github.io/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://perouz.github.io/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://perouz.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://perouz.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://perouz.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://perouz.github.io/publication/ijcai-2020-303/</loc><lastmod>2022-01-11T14:16:02-05:00</lastmod></url>
-  <url>
-    <loc>https://perouz.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://perouz.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://perouz.github.io/publication/cucurull-2019-context/</loc><lastmod>2022-01-11T14:16:00-05:00</lastmod></url>
   <url>
@@ -85,6 +57,8 @@
     <loc>https://perouz.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://perouz.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://perouz.github.io/tags/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://perouz.github.io/publication-type/2/</loc><lastmod>2022-01-11T14:16:11-05:00</lastmod></url>
   <url>
@@ -309,5 +283,7 @@
     <loc>https://perouz.github.io/publication/taslakian-masters-04/</loc><lastmod>2022-01-11T14:16:24-05:00</lastmod></url>
   <url>
     <loc>https://perouz.github.io/admin/</loc></url>
+  <url>
+    <loc>https://perouz.github.io/categories/</loc></url>
   <url>
     <loc></loc></url></urlset>
