@@ -5,12 +5,52 @@
     <link>https://perouz.github.io/publication-type/1/</link>
       <atom:link href="https://perouz.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://perouz.github.io/media/icon_hufa901ab26a6d3b594018e83fe640980c_489627_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://perouz.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Multi-View Causal Representation Learning with Partial Observability</title>
+      <link>https://perouz.github.io/publication/yao-2023-multiview/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/yao-2023-multiview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Sparsity Principle for Partially Observable Causal Representation Learning</title>
+      <link>https://perouz.github.io/publication/xu-2023-sparsity/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/xu-2023-sparsity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capture the Flag: Uncovering Data Insights with Large Language Models</title>
+      <link>https://perouz.github.io/publication/laradji-2023-capture/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/laradji-2023-capture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining Graph Neural Networks Using Interpretable Local Surrogates</title>
+      <link>https://perouz.github.io/publication/heidari-2023-explaining/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/heidari-2023-explaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OC-NMN : Object-centric Compositional Neural Module Network for Generative Visual Analogical Reasoning</title>
+      <link>https://perouz.github.io/publication/assouel-2023-ocnmn/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/assouel-2023-ocnmn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Typing assumptions improve identification in causal discovery</title>

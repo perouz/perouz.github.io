@@ -5,12 +5,20 @@
     <link>https://perouz.github.io/publication-type/2/</link>
       <atom:link href="https://perouz.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://perouz.github.io/media/icon_hufa901ab26a6d3b594018e83fe640980c_489627_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://perouz.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Using Graph Algorithms to Pretrain Graph Completion Transformers</title>
+      <link>https://perouz.github.io/publication/pilault-2022-using/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://perouz.github.io/publication/pilault-2022-using/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The four bars problem</title>
