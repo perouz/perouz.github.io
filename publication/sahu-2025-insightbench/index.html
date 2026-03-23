@@ -8,7 +8,7 @@
   <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Nunito&display=swap">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" media="print" onload="this.media='all'">
   <meta name="author" content="Perouz Taslakian" />
-  <meta name="description" content="" />
+  <meta name="description" content="Data analytics is essential for extracting valuable insights from data that can assist organizations in making effective decisions. We introduce InsightBench, a benchmark dataset with three key features. First, it consists of 100 datasets representing diverse business use cases such as finance and incident management, each accompanied by a carefully curated set of insights planted in the datasets. Second, unlike existing benchmarks focusing on answering single queries, InsightBench evaluates agents based on their ability to perform end-to-end data analytics, including formulating questions, interpreting answers, and generating a summary of insights and actionable steps. Third, we conducted comprehensive quality assurance to ensure that each dataset in the benchmark had clear goals and included relevant and meaningful questions and analysis. Furthermore, we implement a two-way evaluation mechanism using LLaMA-3 as an effective, open-source evaluator to assess agents&#x27; ability to extract insights. We also propose AgentPoirot, our baseline data analysis agent capable of performing end-to-end data analytics. Our evaluation on InsightBench shows that AgentPoirot outperforms existing approaches (such as Pandas Agent) that focus on resolving single queries. We also compare the performance of open- and closed-source LLMs and various evaluation strategies. Overall, this benchmark serves as a testbed to motivate further development in comprehensive automated data analytics." />
   <link rel="alternate" hreflang="en-us" href="https://perouz.github.io/publication/sahu-2025-insightbench/" />
   <meta name="theme-color" content="#315592" />
   <script src="/js/mathjax-config.js"></script>
@@ -42,7 +42,7 @@
   <meta property="og:site_name" content="Perouz Taslakian" />
   <meta property="og:url" content="https://perouz.github.io/publication/sahu-2025-insightbench/" />
   <meta property="og:title" content="InsightBench: Evaluating Business Analytics Agents Through Multi-Step Insight Generation | Perouz Taslakian" />
-  <meta property="og:description" content="" /><meta property="og:image" content="https://perouz.github.io/media/icon_hufa901ab26a6d3b594018e83fe640980c_489627_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:description" content="Data analytics is essential for extracting valuable insights from data that can assist organizations in making effective decisions. We introduce InsightBench, a benchmark dataset with three key features. First, it consists of 100 datasets representing diverse business use cases such as finance and incident management, each accompanied by a carefully curated set of insights planted in the datasets. Second, unlike existing benchmarks focusing on answering single queries, InsightBench evaluates agents based on their ability to perform end-to-end data analytics, including formulating questions, interpreting answers, and generating a summary of insights and actionable steps. Third, we conducted comprehensive quality assurance to ensure that each dataset in the benchmark had clear goals and included relevant and meaningful questions and analysis. Furthermore, we implement a two-way evaluation mechanism using LLaMA-3 as an effective, open-source evaluator to assess agents&#x27; ability to extract insights. We also propose AgentPoirot, our baseline data analysis agent capable of performing end-to-end data analytics. Our evaluation on InsightBench shows that AgentPoirot outperforms existing approaches (such as Pandas Agent) that focus on resolving single queries. We also compare the performance of open- and closed-source LLMs and various evaluation strategies. Overall, this benchmark serves as a testbed to motivate further development in comprehensive automated data analytics." /><meta property="og:image" content="https://perouz.github.io/media/icon_hufa901ab26a6d3b594018e83fe640980c_489627_512x512_fill_lanczos_center_3.png" />
   <meta property="twitter:image" content="https://perouz.github.io/media/icon_hufa901ab26a6d3b594018e83fe640980c_489627_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   <meta property="article:published_time" content="2025-01-01T00:00:00+00:00" />
   <meta property="article:modified_time" content="2025-01-01T00:00:00+00:00">
@@ -69,7 +69,7 @@
       "url": "https://perouz.github.io/media/icon_hufa901ab26a6d3b594018e83fe640980c_489627_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": ""
+  "description": "Data analytics is essential for extracting valuable insights from data that can assist organizations in making effective decisions. We introduce InsightBench, a benchmark dataset with three key features. First, it consists of 100 datasets representing diverse business use cases such as finance and incident management, each accompanied by a carefully curated set of insights planted in the datasets. Second, unlike existing benchmarks focusing on answering single queries, InsightBench evaluates agents based on their ability to perform end-to-end data analytics, including formulating questions, interpreting answers, and generating a summary of insights and actionable steps. Third, we conducted comprehensive quality assurance to ensure that each dataset in the benchmark had clear goals and included relevant and meaningful questions and analysis. Furthermore, we implement a two-way evaluation mechanism using LLaMA-3 as an effective, open-source evaluator to assess agents&#x27; ability to extract insights. We also propose AgentPoirot, our baseline data analysis agent capable of performing end-to-end data analytics. Our evaluation on InsightBench shows that AgentPoirot outperforms existing approaches (such as Pandas Agent) that focus on resolving single queries. We also compare the performance of open- and closed-source LLMs and various evaluation strategies. Overall, this benchmark serves as a testbed to motivate further development in comprehensive automated data analytics."
 }
 </script>
   <title>InsightBench: Evaluating Business Analytics Agents Through Multi-Step Insight Generation | Perouz Taslakian</title>
@@ -123,6 +123,14 @@
 </div>
 </div>
   <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Data analytics is essential for extracting valuable insights from data that can assist organizations in making effective decisions. We introduce InsightBench, a benchmark dataset with three key features. First, it consists of 100 datasets representing diverse business use cases such as finance and incident management, each accompanied by a carefully curated set of insights planted in the datasets. Second, unlike existing benchmarks focusing on answering single queries, InsightBench evaluates agents based on their ability to perform end-to-end data analytics, including formulating questions, interpreting answers, and generating a summary of insights and actionable steps. Third, we conducted comprehensive quality assurance to ensure that each dataset in the benchmark had clear goals and included relevant and meaningful questions and analysis. Furthermore, we implement a two-way evaluation mechanism using LLaMA-3 as an effective, open-source evaluator to assess agents' ability to extract insights. We also propose AgentPoirot, our baseline data analysis agent capable of performing end-to-end data analytics. Our evaluation on InsightBench shows that AgentPoirot outperforms existing approaches (such as Pandas Agent) that focus on resolving single queries. We also compare the performance of open- and closed-source LLMs and various evaluation strategies. Overall, this benchmark serves as a testbed to motivate further development in comprehensive automated data analytics.</p>
+    
+
+    
+    
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">

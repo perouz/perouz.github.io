@@ -8,7 +8,7 @@
   <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Nunito&display=swap">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" media="print" onload="this.media='all'">
   <meta name="author" content="Perouz Taslakian" />
-  <meta name="description" content="" />
+  <meta name="description" content="We introduce Visual Caption Restoration (VCR), a novel vision-language task that challenges models to accurately restore partially obscured texts using pixel-level hints within images. This task stems from the observation that text embedded in images is intrinsically different from common visual elements and natural language due to the need to align the modalities of vision, text, and text embedded in images. While numerous works have integrated text embedded in images into visual question-answering tasks, approaches to these tasks generally rely on optical character recognition or masked language modeling, thus reducing the task to mainly text-based processing. However, text-based processing becomes ineffective in VCR as accurate text restoration depends on the combined information from provided images, context, and subtle cues from the tiny exposed areas of masked texts. We develop a pipeline to generate synthetic images for the VCR task using image-caption pairs, with adjustable caption visibility to control the task difficulty. With this pipeline, we construct a dataset for VCR called VCR-Wiki using images with captions from Wikipedia, comprising 2.11M English and 346K Chinese entities in both easy and hard split variants. Our results reveal that current vision language models significantly lag behind human performance in the VCR task, and merely fine-tuning the models on our dataset does not lead to notable improvements. We release VCR-Wiki and the data construction code to facilitate future research." />
   <link rel="alternate" hreflang="en-us" href="https://perouz.github.io/publication/zhang-2025-vcr/" />
   <meta name="theme-color" content="#315592" />
   <script src="/js/mathjax-config.js"></script>
@@ -42,7 +42,7 @@
   <meta property="og:site_name" content="Perouz Taslakian" />
   <meta property="og:url" content="https://perouz.github.io/publication/zhang-2025-vcr/" />
   <meta property="og:title" content="VCR: Visual Caption Restoration | Perouz Taslakian" />
-  <meta property="og:description" content="" /><meta property="og:image" content="https://perouz.github.io/media/icon_hufa901ab26a6d3b594018e83fe640980c_489627_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:description" content="We introduce Visual Caption Restoration (VCR), a novel vision-language task that challenges models to accurately restore partially obscured texts using pixel-level hints within images. This task stems from the observation that text embedded in images is intrinsically different from common visual elements and natural language due to the need to align the modalities of vision, text, and text embedded in images. While numerous works have integrated text embedded in images into visual question-answering tasks, approaches to these tasks generally rely on optical character recognition or masked language modeling, thus reducing the task to mainly text-based processing. However, text-based processing becomes ineffective in VCR as accurate text restoration depends on the combined information from provided images, context, and subtle cues from the tiny exposed areas of masked texts. We develop a pipeline to generate synthetic images for the VCR task using image-caption pairs, with adjustable caption visibility to control the task difficulty. With this pipeline, we construct a dataset for VCR called VCR-Wiki using images with captions from Wikipedia, comprising 2.11M English and 346K Chinese entities in both easy and hard split variants. Our results reveal that current vision language models significantly lag behind human performance in the VCR task, and merely fine-tuning the models on our dataset does not lead to notable improvements. We release VCR-Wiki and the data construction code to facilitate future research." /><meta property="og:image" content="https://perouz.github.io/media/icon_hufa901ab26a6d3b594018e83fe640980c_489627_512x512_fill_lanczos_center_3.png" />
   <meta property="twitter:image" content="https://perouz.github.io/media/icon_hufa901ab26a6d3b594018e83fe640980c_489627_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   <meta property="article:published_time" content="2025-01-01T00:00:00+00:00" />
   <meta property="article:modified_time" content="2025-01-01T00:00:00+00:00">
@@ -69,7 +69,7 @@
       "url": "https://perouz.github.io/media/icon_hufa901ab26a6d3b594018e83fe640980c_489627_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": ""
+  "description": "We introduce Visual Caption Restoration (VCR), a novel vision-language task that challenges models to accurately restore partially obscured texts using pixel-level hints within images. This task stems from the observation that text embedded in images is intrinsically different from common visual elements and natural language due to the need to align the modalities of vision, text, and text embedded in images. While numerous works have integrated text embedded in images into visual question-answering tasks, approaches to these tasks generally rely on optical character recognition or masked language modeling, thus reducing the task to mainly text-based processing. However, text-based processing becomes ineffective in VCR as accurate text restoration depends on the combined information from provided images, context, and subtle cues from the tiny exposed areas of masked texts. We develop a pipeline to generate synthetic images for the VCR task using image-caption pairs, with adjustable caption visibility to control the task difficulty. With this pipeline, we construct a dataset for VCR called VCR-Wiki using images with captions from Wikipedia, comprising 2.11M English and 346K Chinese entities in both easy and hard split variants. Our results reveal that current vision language models significantly lag behind human performance in the VCR task, and merely fine-tuning the models on our dataset does not lead to notable improvements. We release VCR-Wiki and the data construction code to facilitate future research."
 }
 </script>
   <title>VCR: Visual Caption Restoration | Perouz Taslakian</title>
@@ -130,6 +130,14 @@
 </div>
 </div>
   <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">We introduce Visual Caption Restoration (VCR), a novel vision-language task that challenges models to accurately restore partially obscured texts using pixel-level hints within images. This task stems from the observation that text embedded in images is intrinsically different from common visual elements and natural language due to the need to align the modalities of vision, text, and text embedded in images. While numerous works have integrated text embedded in images into visual question-answering tasks, approaches to these tasks generally rely on optical character recognition or masked language modeling, thus reducing the task to mainly text-based processing. However, text-based processing becomes ineffective in VCR as accurate text restoration depends on the combined information from provided images, context, and subtle cues from the tiny exposed areas of masked texts. We develop a pipeline to generate synthetic images for the VCR task using image-caption pairs, with adjustable caption visibility to control the task difficulty. With this pipeline, we construct a dataset for VCR called VCR-Wiki using images with captions from Wikipedia, comprising 2.11M English and 346K Chinese entities in both easy and hard split variants. Our results reveal that current vision language models significantly lag behind human performance in the VCR task, and merely fine-tuning the models on our dataset does not lead to notable improvements. We release VCR-Wiki and the data construction code to facilitate future research.</p>
+    
+
+    
+    
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
